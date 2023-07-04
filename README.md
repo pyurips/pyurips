@@ -11,6 +11,9 @@ I always take it with me: mainly improve your learning skills. Tools are volatil
 
 ## Projetos que estão em desenvolvimento/foram desenvolvidos | Projects that are under development/have been developed
 <p>
+  <a href="https://github.com/pyurips/eroutes" target="_blank">
+    <img alt="EROUTES Logo" src="https://media.discordapp.net/attachments/971787111470596136/1125611981622231090/eroutes_logo_1.png" />
+  </a>
   <a href="https://www.dataliferp.com/" target="_blank">
     <img alt="DATALIFE Logo"   src="https://cdn.discordapp.com/attachments/971787111470596136/1123984120838627460/DATALIFE_logo_without_name_white_for_ICO_1.png" />
   </a>
